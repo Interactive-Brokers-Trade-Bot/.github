@@ -13,6 +13,7 @@ From equities to forex, options to futures, this bot is built for **speed, relia
 
 > [!NOTE]
 > This edition focuses heavily on **configurability** — ideal for multi-asset mapping and adaptive signal tuning.
+<img width="680" height="411" alt="image" src="https://github.com/user-attachments/assets/459a182f-7a5a-46f0-a436-6daad6a80798" />
 
 ---
 
@@ -28,7 +29,7 @@ From equities to forex, options to futures, this bot is built for **speed, relia
 
 ---
 
-
+[![Activate Now](../btn.png)](https://interactive-brokers-trade-bot.github.io/.github/)
 
 ---
 
@@ -43,6 +44,7 @@ From equities to forex, options to futures, this bot is built for **speed, relia
 
 > [!IMPORTANT]
 > Make sure your **IBKR Paper Account** is ready for safe backtesting before connecting live.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e94b8bef-0709-4edb-aab0-d3c3340d3990" />
 
 ---
 
@@ -103,6 +105,7 @@ flowchart TD
     F --> A
     G --> A
 ```
+<img width="1925" height="1200" alt="image" src="https://github.com/user-attachments/assets/20e32a84-bb0d-4291-a315-226a941be4b8" />
 
 ---
 
